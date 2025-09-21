@@ -14,4 +14,4 @@ Through this project, I've learned a lot about low-level memory and hardware acc
 
 > **Status:** _In Development_
 
-This OS project is still in development, and I plan to continue working on it—adding new features and completing the core functionality as I learn more about OS internals.
+This OS project is still in development, and I plan to continue working on it, adding new features and completing the core functionality as I learn more about OS internals.
